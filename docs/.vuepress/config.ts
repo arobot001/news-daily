@@ -5,6 +5,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   lang: 'zh-CN',
   
+  base: '/news-daily/',
+  
   title: '每日资讯日报',
   description: 'AI 每日自动采集的资讯日报',
   
