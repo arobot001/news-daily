@@ -20,7 +20,9 @@ export default {
       '/daily/': [
         {
           text: '每日日报',
-          items: 'auto'
+          items: [
+            { text: '日报列表', link: '/daily/' }
+          ]
         }
       ]
     }
