@@ -21,7 +21,6 @@ export default {
         {
           text: '每日日报',
           items: [
-            { text: '日报列表', link: '/daily/' },
             { text: '20260205', link: '/daily/daily-news-20260205' }
           ]
         }
