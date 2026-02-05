@@ -1,5 +1,5 @@
 ---
-layout: home
+home: true
 title: 每日资讯日报
 heroImage: /logo.svg
 actions:
