@@ -28,7 +28,7 @@ export default defineUserConfig({
         {
           text: '每日日报',
           collapsible: false,
-          children: ['daily-news-20260205.md']
+          children: 'auto'
         }
       ]
     },
