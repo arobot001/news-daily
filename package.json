@@ -1,0 +1,14 @@
+{
+  "name": "news-daily",
+  "version": "1.0.0",
+  "description": "AI每日自动采集的资讯日报",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^2.0.0",
+    "@vuepress-plume/plugin": "^2.0.0",
+    "@vuepress-plume/theme": "^2.0.0"
+  }
+}
