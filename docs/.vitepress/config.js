@@ -1,12 +1,4 @@
-import { viteBundler } from '@vuepress/bundler-vite'
-import { defineUserConfig } from 'vuepress'
-import { plumeTheme } from 'vuepress-theme-plume'
-
-export default defineUserConfig({
-  lang: 'zh-CN',
-  
-  base: '/news-daily/',
-  
+export default {
   title: '每日资讯日报',
   description: 'AI 每日自动采集的资讯日报',
   
@@ -15,10 +7,10 @@ export default defineUserConfig({
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   
-  theme: plumeTheme({
+  themeConfig: {
     logo: '/logo.svg',
     
-    navbar: [
+    nav: [
       { text: '首页', link: '/' },
       { text: '日报', link: '/daily/' }
     ],
@@ -27,16 +19,9 @@ export default defineUserConfig({
       '/daily/': [
         {
           text: '每日日报',
-          collapsible: false,
-          children: 'auto'
+          items: 'auto'
         }
       ]
-    },
-    
-    plugins: {
-      git: false
     }
-  }),
-  
-  bundler: viteBundler()
-})
+  }
+}
