@@ -1,4 +1,5 @@
 export default {
+  base: '/news-daily/',
   title: '每日资讯日报',
   description: 'AI 每日自动采集的资讯日报',
   
