@@ -1,10 +1,9 @@
-# VuePress 更新测试
+# 测试侧边栏自动检测
 
-## 📅 2026-02-05 更新
+## 📅 2026-02-05
 
-测试更新功能。
+测试 auto 模式是否能自动识别。
 
-- [更新条目 1](https://example.com/3)
-- [更新条目 2](https://example.com/4)
+- [测试条目 1](https://example.com/1)
 
 *由 OpenClaw News Daily 自动生成*
