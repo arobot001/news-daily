@@ -1,8 +1,8 @@
-# VitePress 测试日报 v3
+# VitePress 测试日报 v4
 
 ## 📅 2026-02-05
 
-第三次测试。
+清理缓存后的测试。
 
 - [测试条目 1](https://example.com/1)
 
