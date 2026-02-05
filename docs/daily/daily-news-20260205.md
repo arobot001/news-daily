@@ -1,9 +1,10 @@
-# 最终测试 auto 模式
+# VitePress 最终测试
 
 ## 📅 2026-02-05
 
-测试 auto 模式下的提示信息。
+修复配置后的最终测试。
 
 - [测试条目 1](https://example.com/1)
+- [测试条目 2](https://example.com/2)
 
 *由 OpenClaw News Daily 自动生成*
