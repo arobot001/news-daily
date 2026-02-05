@@ -1,11 +1,10 @@
-# 测试日报更新
+# VuePress 测试日报
 
-## 📅 2026-02-05 更新版
+## 📅 2026-02-05
 
-这是更新后的测试日报。
+检测路由配置的测试日报。
 
-- [更新条目 1](https://example.com/3)
-- [更新条目 2](https://example.com/4)
-- [更新条目 3](https://example.com/5)
+- [测试条目 1](https://example.com/1)
+- [测试条目 2](https://example.com/2)
 
 *由 OpenClaw News Daily 自动生成*
